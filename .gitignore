@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/CitySearch/bin
+/CitySearch/obj/Debug
+/CitySearch.Core/obj/Debug
+/CitySearch.Tests/obj/Debug
+/packages
+/CitySearch.Core/bin/Debug
